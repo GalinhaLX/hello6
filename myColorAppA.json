@@ -1,8 +1,8 @@
 {
 	"back_color1": "#b358ff",
-	"back_color1_transparency": 100,
-	"back_color1_opacity": 0,
-	"calc_color1_full": "#b358ff00",
+	"back_color1_transparency": 85,
+	"back_color1_opacity": 15,
+	"calc_color1_full": "#b358ff26",
 	"back_has_gradient": true,
 	"back_color2": "#0021c0",
 	"back_color2_transparency": 0,
@@ -13,7 +13,7 @@
 	],
 	"temp_size": 90,
 	"temp_direction": "to top right",
-	"back_gradient_hint": 54,
+	"back_gradient_hint": 27,
 	"back_grad_animate": false,
 	"pourcentage": "50"
 }
