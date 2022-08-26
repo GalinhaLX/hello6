@@ -5,11 +5,11 @@
 	"calc_color1_full": "#857effFF",
 	"back_has_gradient": true,
 	"back_color2": "#0021c0",
-	"back_color2_transparency": 77,
-	"back_color2_opacity": 23,
+	"back_color2_transparency": 73,
+	"back_color2_opacity": 27,
 	"calc_color2_full": [
-		"#0021c03B",
-		"#0021c03B"
+		"#0021c045",
+		"#0021c045"
 	],
 	"temp_size": 90,
 	"temp_direction": "to left",
