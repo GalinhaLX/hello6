@@ -12,10 +12,10 @@
 	],
 	"temp_size": 90,
 	"temp_direction": "to top right",
-	"back_gradient_hint": 71,
+	"back_gradient_hint": 81,
 	"back_grad_animate": true,
 	"pourcentage": "50",
-	"calc_background": "background-image:linear-gradient(to top right,#fefffdFF,71%,#0021c000);",
+	"calc_background": "background-image:linear-gradient(to top right,#fefffdFF,81%,#0021c000);",
 	"calc_color1_fullA": "#ff001cFF",
 	"back_has_color": true,
 	"back_grad_ani_speed": 6
