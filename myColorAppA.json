@@ -18,5 +18,5 @@
 	"calc_background": "background-image:linear-gradient(to top right,#fefffdFF,81%,#0021c09E);",
 	"calc_color1_fullA": "#ff001cFF",
 	"back_has_color": true,
-	"back_grad_ani_speed": 6
+	"back_grad_ani_speed": 1
 }
