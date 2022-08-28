@@ -15,8 +15,9 @@
 	"back_gradient_hint": 50,
 	"back_grad_animate": true,
 	"pourcentage": "50",
-	"calc_background": "background-image:linear-gradient(to right,#f5f5ffFF,50%,#0021c042);",
+	"calc_background": "background-image:linear-gradient(to top right,#f5f5ffFF,50%,#0021c042);",
 	"calc_color1_fullA": "#ff001cFF",
 	"back_has_color": true,
-	"back_grad_ani_speed": 10
+	"back_grad_ani_speed": 10,
+	"back_grad_direction": "to top right"
 }
