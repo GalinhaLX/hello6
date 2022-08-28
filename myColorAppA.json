@@ -18,6 +18,6 @@
 	"calc_background": "background-image:linear-gradient(to top right,#ff202dFF,56%,#0021c075);",
 	"calc_color1_fullA": "#ff001cFF",
 	"back_has_color": true,
-	"back_grad_ani_speed": 4,
+	"back_grad_ani_speed": 7,
 	"back_grad_direction": "to top right"
 }
