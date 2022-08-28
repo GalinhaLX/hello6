@@ -23,10 +23,10 @@
 	"back_has_color": true,
 	"back_grad_ani_speed": 15,
 	"back_grad_direction": "to top right",
-	"back_has_image": true,
+	"back_has_image": false,
 	"back_image": "https://vakcin.com/assets/images/MIX_transparent.png",
 	"back_image_opacity": 50,
-	"back_image_transparency": 50,
+	"back_image_transparency": 100,
 	"back_grad_ani_duration": 5,
 	"altea": "https://cdn.jsdelivr.net/gh/GalinhaLX/hello6@e87b8600d33364895fa29a312470b00e6637430b/images/fe69216c-fad1-4b7b-a647-55050fee54b5"
 }
