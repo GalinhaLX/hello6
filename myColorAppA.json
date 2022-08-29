@@ -25,9 +25,9 @@
 	"back_grad_direction": "to top right",
 	"back_has_image": true,
 	"back_image": "https://vakcin.com/assets/images/MIX_transparent.png",
-	"back_image_opacity": 1,
+	"back_image_opacity": 0.84,
 	"back_image_transparency": 20,
 	"back_grad_ani_duration": 5,
 	"altea": "https://cdn.jsdelivr.net/gh/GalinhaLX/hello6@e87b8600d33364895fa29a312470b00e6637430b/images/fe69216c-fad1-4b7b-a647-55050fee54b5",
-	"is_back_image": "https://images.unsplash.com/photo-1504309092620-4d0ec726efa4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTcyMDB8MHwxfHNlYXJjaHwzOHx8cmFuZG9tfGVufDB8MHx8fDE2NjE3ODcxMDE&ixlib=rb-1.2.1&q=80&w=1080"
+	"is_back_image": "https://images.unsplash.com/photo-1496449903678-68ddcb189a24?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTcyMDB8MHwxfHNlYXJjaHw1fHxyYW5kb218ZW58MHwwfHx8MTY2MTc4NDM0NA&ixlib=rb-1.2.1&q=80&w=1080"
 }
