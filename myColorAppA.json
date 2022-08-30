@@ -1,5 +1,5 @@
 {
-	"back_color1": "#ff827f",
+	"back_color1": "#deb22d",
 	"back_color1_transparency": 70,
 	"back_color1_opacity": 30,
 	"back_has_gradient": false,
@@ -16,14 +16,11 @@
 	"back_grad_animate": true,
 	"pourcentage": "50",
 	"calc_background": [
-		"background-image:linear-gradient(,#ff827fB3,%,);",
+		"background-image:linear-gradient(,#deb22dB3,%,);",
 		"background-image:linear-gradient(to top right,#ff202dFF,71%,#0021c030);"
 	],
 	"calc_color1_fullA": "#ff001cFF",
-	"back_has_color": [
-		true,
-		false
-	],
+	"back_has_color": true,
 	"back_grad_ani_speed": 15,
 	"back_grad_direction": "to top right",
 	"back_has_image": true,
