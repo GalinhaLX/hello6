@@ -2,12 +2,12 @@
 	"back_color1": "#de811e",
 	"back_color1_transparency": 70,
 	"back_color1_opacity": 30,
-	"back_has_gradient": false,
+	"back_has_gradient": true,
 	"back_color2": "#0021c0",
-	"back_color2_transparency": 100,
+	"back_color2_transparency": 19,
 	"back_color2_opacity": 81,
 	"calc_color2_full": [
-		"00",
+		"#0021c030",
 		"#0021c0FF"
 	],
 	"temp_size": 90,
@@ -16,13 +16,13 @@
 	"back_grad_animate": true,
 	"pourcentage": "50",
 	"calc_background": [
-		"background-image:linear-gradient(,#de811eB3,%,);",
+		"background-image:linear-gradient(to right,#de811eB3,71%,#0021c030);",
 		"background-image:linear-gradient(to top right,#ff202dFF,71%,#0021c030);"
 	],
 	"calc_color1_fullA": "#ff001cFF",
 	"back_has_color": true,
 	"back_grad_ani_speed": 15,
-	"back_grad_direction": "to top right",
+	"back_grad_direction": "to right",
 	"back_has_image": true,
 	"back_image": "https://vakcin.com/assets/images/MIX_transparent.png",
 	"back_image_opacity": [
