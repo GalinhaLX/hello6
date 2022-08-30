@@ -16,13 +16,13 @@
 	"back_grad_animate": true,
 	"pourcentage": "50",
 	"calc_background": [
-		"background-image:linear-gradient(to top right,#ffb0c1FF,96%,#f6f6ff00);",
+		"background-image:linear-gradient(to right,#ffb0c1FF,96%,#f6f6ff00);",
 		"background-image:linear-gradient(to top right,#ff202dFF,71%,#0021c030);"
 	],
 	"calc_color1_fullA": "#ff001cFF",
 	"back_has_color": true,
 	"back_grad_ani_speed": 15,
-	"back_grad_direction": "to top right",
+	"back_grad_direction": "to right",
 	"back_has_image": true,
 	"back_image": "https://vakcin.com/assets/images/MIX_transparent.png",
 	"back_image_opacity": [
@@ -30,7 +30,7 @@
 		null
 	],
 	"back_image_transparency": 0.65,
-	"back_grad_ani_duration": 6,
+	"back_grad_ani_duration": 3,
 	"altea": "https://cdn.jsdelivr.net/gh/GalinhaLX/hello6@e87b8600d33364895fa29a312470b00e6637430b/images/fe69216c-fad1-4b7b-a647-55050fee54b5",
 	"is_back_image": "https://images.unsplash.com/photo-1477414348463-c0eb7f1359b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTcyMDB8MHwxfHNlYXJjaHw4fHxyYW5kb218ZW58MHwwfHx8MTY2MTg3NDMzOA&ixlib=rb-1.2.1&q=80&w=1080"
 }
