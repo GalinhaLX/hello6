@@ -1,7 +1,7 @@
 {
 	"back_color1": "#ff3e68",
-	"back_color1_transparency": 30,
-	"back_color1_opacity": 70,
+	"back_color1_transparency": 89,
+	"back_color1_opacity": 11,
 	"back_has_gradient": true,
 	"back_color2": "#3b060b",
 	"back_color2_transparency": 62,
@@ -16,7 +16,7 @@
 	"back_grad_animate": true,
 	"pourcentage": "50",
 	"calc_background": [
-		"background-image:linear-gradient(to right,#ff3e684D,61%,#3b060b9E);",
+		"background-image:linear-gradient(to right,#ff3e68E3,61%,#3b060b9E);",
 		"background-image:linear-gradient(to top right,#ff202dFF,71%,#0021c030);"
 	],
 	"calc_color1_fullA": "#ff001cFF",
@@ -30,7 +30,7 @@
 		null
 	],
 	"back_image_transparency": 0.18,
-	"back_grad_ani_duration": 1,
+	"back_grad_ani_duration": 3,
 	"altea": "https://cdn.jsdelivr.net/gh/GalinhaLX/hello6@e87b8600d33364895fa29a312470b00e6637430b/images/fe69216c-fad1-4b7b-a647-55050fee54b5",
 	"is_back_image": "https://images.unsplash.com/photo-1446729444801-31245ddba81a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTcyMDB8MHwxfHNlYXJjaHwxfHxibGFjayUyMGFuZCUyMHdoaXRlfGVufDB8MHx8fDE2NjE5MDUwMjY&ixlib=rb-1.2.1&q=80&w=1080"
 }
