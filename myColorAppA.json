@@ -13,7 +13,7 @@
 	"temp_size": 90,
 	"temp_direction": "to right",
 	"back_gradient_hint": 58,
-	"back_grad_animate": true,
+	"back_grad_animate": false,
 	"pourcentage": "50",
 	"calc_background": [
 		"background-image:linear-gradient(to top left,#9d201dFF,58%,#ff1100FF);",
