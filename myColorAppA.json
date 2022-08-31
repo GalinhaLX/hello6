@@ -1,5 +1,5 @@
 {
-	"back_color1": "#148f45",
+	"back_color1": "#00ff66",
 	"back_color1_transparency": 100,
 	"back_color1_opacity": 0,
 	"back_has_gradient": true,
@@ -16,7 +16,7 @@
 	"back_grad_animate": true,
 	"pourcentage": "50",
 	"calc_background": [
-		"background-image:linear-gradient(to right,#148f45FF,58%,#ff1100FF);",
+		"background-image:linear-gradient(to right,#00ff66FF,58%,#ff1100FF);",
 		"background-image:linear-gradient(to top right,#ff202dFF,71%,#0021c030);"
 	],
 	"calc_color1_fullA": "#ff001cFF",
