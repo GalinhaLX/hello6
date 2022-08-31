@@ -2,12 +2,12 @@
 	"back_color1": "#bf0fd7",
 	"back_color1_transparency": 71,
 	"back_color1_opacity": 29,
-	"back_has_gradient": false,
+	"back_has_gradient": true,
 	"back_color2": "#990a00",
-	"back_color2_transparency": 100,
+	"back_color2_transparency": 85,
 	"back_color2_opacity": 15,
 	"calc_color2_full": [
-		"00",
+		"#990a00D9",
 		"#0021c0FF"
 	],
 	"temp_size": 90,
@@ -16,7 +16,7 @@
 	"back_grad_animate": true,
 	"pourcentage": "50",
 	"calc_background": [
-		"background-image:linear-gradient(,#bf0fd7B5,%,);",
+		"background-image:linear-gradient(to top right,#bf0fd7B5,58%,#990a00D9);",
 		"background-image:linear-gradient(to top right,#ff202dFF,71%,#0021c030);"
 	],
 	"calc_color1_fullA": "#ff001cFF",
