@@ -13,7 +13,7 @@
 	"temp_size": 90,
 	"temp_direction": "to right",
 	"back_gradient_hint": 58,
-	"back_grad_animate": false,
+	"back_grad_animate": true,
 	"pourcentage": "50",
 	"calc_background": [
 		"background-image:linear-gradient(to top right,#ff779591,58%,#008002D9);",
@@ -30,7 +30,7 @@
 		null
 	],
 	"back_image_transparency": 0.26,
-	"back_grad_ani_duration": 10,
+	"back_grad_ani_duration": 5,
 	"altea": "https://cdn.jsdelivr.net/gh/GalinhaLX/hello6@e87b8600d33364895fa29a312470b00e6637430b/images/fe69216c-fad1-4b7b-a647-55050fee54b5",
 	"is_back_image": "https://cdn.jsdelivr.net/gh/GalinhaLX/hello6@876e38905f3030bc2fe38d71a16f30ca942e4eef/images/coat.jpg"
 }
