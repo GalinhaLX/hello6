@@ -16,13 +16,13 @@
 	"back_grad_animate": true,
 	"pourcentage": "50",
 	"calc_background": [
-		"background-image:linear-gradient(to top,#a4d0fdC9,50%,#3b060b54);",
+		"background-image:linear-gradient(0deg,#a4d0fdC9,50%,#3b060b54);",
 		"background-image:linear-gradient(to top right,#ff202dFF,71%,#0021c030);"
 	],
 	"calc_color1_fullA": "#ff001cFF",
 	"back_has_color": true,
 	"back_grad_ani_speed": 15,
-	"back_grad_direction": "to top",
+	"back_grad_direction": "0deg",
 	"back_has_image": true,
 	"back_image": "https://vakcin.com/assets/images/MIX_transparent.png",
 	"back_image_opacity": [
