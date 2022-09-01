@@ -34,5 +34,6 @@
 	"altea": "https://cdn.jsdelivr.net/gh/GalinhaLX/hello6@e87b8600d33364895fa29a312470b00e6637430b/images/fe69216c-fad1-4b7b-a647-55050fee54b5",
 	"is_back_image": "https://cdn.jsdelivr.net/gh/GalinhaLX/hello6@cc3ff3c0b4ce15bfc93483e1c31a4dff3417163b/images/coat2-solo.png",
 	"calc_image_temp": "https://imagecdn.app/v2/image/https://cdn.jsdelivr.net/gh/GalinhaLX/hello6@c87eb023756976940a41a517c1c7cc1069a54cc5/images/coat3.jpg?width=1920&height=1080",
-	"source_is_unsplash": false
+	"source_is_unsplash": false,
+	"is_back_image_corrected": "https://cdn.jsdelivr.net/gh/GalinhaLX/hello6@cc3ff3c0b4ce15bfc93483e1c31a4dff3417163b/images/coat2-solo.png"
 }
