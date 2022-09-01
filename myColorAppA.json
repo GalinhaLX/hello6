@@ -1,38 +1,19 @@
 {
-	"back_color1": "#9d5b15",
-	"back_color1_transparency": 79,
-	"back_color1_opacity": 21,
+	"back_color1": "#3C4545",
+	"back_color1_transparency": 100,
+	"back_color1_opacity": 50,
 	"back_has_gradient": false,
-	"back_color2": "#5efffb",
+	"back_color2": "#FFFFFF",
 	"back_color2_transparency": 100,
-	"back_color2_opacity": 0,
-	"calc_color2_full": [
-		"00",
-		"#0021c0FF"
-	],
-	"temp_size": 90,
-	"temp_direction": "to right",
-	"back_gradient_hint": 53,
+	"back_color2_opacity": 100,
+	"calc_color2_full": "00",
+	"back_gradient_hint": 50,
 	"back_grad_animate": false,
-	"pourcentage": "50",
-	"calc_background": [
-		"background-image:linear-gradient(,#9d5b15C9,%,);",
-		"background-image:linear-gradient(to top right,#ff202dFF,71%,#0021c030);"
-	],
-	"calc_color1_fullA": "#ff001cFF",
-	"back_has_color": true,
-	"back_grad_ani_speed": 15,
-	"back_grad_direction": "to top right",
-	"back_has_image": true,
-	"back_image": "https://vakcin.com/assets/images/MIX_transparent.png",
-	"back_image_opacity": [
-		-0.83,
-		null
-	],
-	"back_image_transparency": 0.28,
-	"back_grad_ani_duration": 10,
-	"altea": "https://cdn.jsdelivr.net/gh/GalinhaLX/hello6@e87b8600d33364895fa29a312470b00e6637430b/images/fe69216c-fad1-4b7b-a647-55050fee54b5",
-	"is_back_image": "https://images.unsplash.com/photo-1524856949007-80db29955b17?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTcyMDB8MHwxfHNlYXJjaHwxMXx8cmFuZG9tfGVufDB8MHx8fDE2NjIwNTg4ODg&ixlib=rb-1.2.1&q=80&w=400",
-	"calc_image_temp": "https://imagecdn.app/v2/image/https://cdn.jsdelivr.net/gh/GalinhaLX/hello6@c87eb023756976940a41a517c1c7cc1069a54cc5/images/coat3.jpg?width=1920&height=1080",
-	"source_is_unsplash": true
+	"calc_background": "background-image:linear-gradient(,#9d5b15C9,%,);",
+	"back_has_color": false,
+	"back_grad_direction": "to right",
+	"back_has_image": false,
+	"back_image_transparency": 0,
+	"back_grad_ani_duration": 5,
+	"source_is_unsplash": false
 }
