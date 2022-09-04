@@ -13,7 +13,7 @@
 	"back_has_color": true,
 	"back_grad_direction": "to right",
 	"back_has_image": true,
-	"back_image_transparency": 0.29,
+	"back_image_transparency": 0.1,
 	"back_grad_ani_duration": 5,
 	"source_is_unsplash": true,
 	"pourcentage": "50",
