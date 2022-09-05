@@ -8,7 +8,7 @@
 	"back_color2_opacity": 39,
 	"calc_color2_full": "#00ff0f9C",
 	"back_gradient_hint": 50,
-	"back_grad_animate": true,
+	"back_grad_animate": false,
 	"calc_background": "background-image:linear-gradient(to bottom right,#0013fdFF,50%,#00ff0f9C);",
 	"back_has_color": true,
 	"back_grad_direction": "to bottom right",
