@@ -11,7 +11,7 @@
 	"calc_color2_full": "00",
 	"back_grad_direction": "to right",
 	"back_gradient_hint": 82,
-	"back_grad_animate": true,
+	"back_grad_animate": false,
 	"back_grad_ani_duration": 5,
 	"back_has_image": true,
 	"back_image_transparency": 0,
