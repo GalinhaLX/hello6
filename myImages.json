@@ -1,13 +1,13 @@
 {
-	"calc_background": "background-image:linear-gradient(to right,#ff827f87,82%,#00ff2aFF);",
+	"calc_background": "background-image:linear-gradient(to right,#ff827f87,82%,#00ff2a75);",
 	"back_has_color": true,
 	"back_color1": "#ff827f",
 	"back_color1_opacity": 47,
 	"back_color1_transparency": 53,
 	"back_has_gradient": true,
 	"back_color2": "#00ff2a",
-	"back_color2_opacity": 0,
-	"back_color2_transparency": 100,
+	"back_color2_opacity": 54,
+	"back_color2_transparency": 46,
 	"calc_color2_full": "00",
 	"back_grad_direction": "to right",
 	"back_gradient_hint": 82,
@@ -15,7 +15,7 @@
 	"back_grad_ani_duration": 5,
 	"back_has_image": true,
 	"back_image_transparency": 0,
-	"back_color2_full": "#00ff2aFF",
+	"back_color2_full": "#00ff2a75",
 	"is_back_image": "https://images.unsplash.com/photo-1524856949007-80db29955b17?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTcyMDB8MHwxfHNlYXJjaHwxMXx8cmFuZG9tfGVufDB8MHx8fDE2NjIzNzk0MzY&ixlib=rb-1.2.1&q=80&w=400",
 	"is_back_image_corrected": "https://images.unsplash.com/photo-1524856949007-80db29955b17"
 }
