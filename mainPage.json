@@ -2,8 +2,7 @@
 	"mainList": [
 		{
 			"who": 0,
-			"avatar": "https://i.imgur.com/LPeWcag.png",
-			"back_has_color": false
+			"back_has_color": true
 		}
 	]
 }
