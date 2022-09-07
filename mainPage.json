@@ -2,7 +2,7 @@
 	"mainList": [
 		{
 			"who": 0,
-			"back_has_color": true
+			"back_has_color": false
 		}
 	]
 }
